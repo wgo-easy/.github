@@ -1,18 +1,14 @@
-<p align="center">
-  <picture>
-    <source
-      width="256px"
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/wgo-easy/.github/main/profile/assets/logo-dark.svg"
-    />
-    <img 
-      width="256px"
-      src="https://raw.githubusercontent.com/wgo-easy/.github/main/profile/assets/logo-light.svg"
-    />
-  </picture>
-  <br />
+<div align="center">
+  <img
+    width="256px"
+    src="https://raw.githubusercontent.com/wgo-easy/.github/main/profile/assets/logo.svg"
+  />
+
+  # WGo Easy
+
   Building the easiest way to run a WireGuard VPN
-</p>
+
+</div>
 
 > [!IMPORTANT]
 > This project is not yet publicly available. It is currently in development and not ready for use.
