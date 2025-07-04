@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    xml:space="preserve"
-   sodipodi:docname="wgo-easy.svg"
+   sodipodi:docname="wgo-easy.inkscape.svg"
    inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,13 +24,13 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
    inkscape:document-units="mm"
-   inkscape:zoom="0.3598617"
-   inkscape:cx="416.8268"
-   inkscape:cy="904.51415"
+   inkscape:zoom="1.2611551"
+   inkscape:cx="490.42342"
+   inkscape:cy="473.77202"
    inkscape:window-width="1512"
    inkscape:window-height="1186"
    inkscape:window-x="1767"
-   inkscape:window-y="204"
+   inkscape:window-y="148"
    inkscape:window-maximized="0"
    inkscape:current-layer="logo" />
   <defs
@@ -43,8 +43,7 @@
    style="stop-color:#90141c;stop-opacity:1;"
    offset="0"
    id="stop28" />
-    </linearGradient>
-  </defs>
+    </linearGradient></defs>
   <g
    inkscape:groupmode="layer"
    id="logo"
@@ -94,7 +93,7 @@
    inkscape:label="hand1" />
     <path
    id="pupil2"
-   style="display:inline;stroke:url(#brandColor);stroke-width:7.9375;stroke-linecap:round"
+   style="display:inline;stroke:url(#brandColor);stroke-width:7.9375;stroke-linecap:round;fill:url(#brandColor)"
    d="m 95.483863,84.223128 c 0,2.902516 -1.678779,5.454902 -4.364689,5.454902 -2.685911,0 -4.065541,-2.45267 -4.065541,-5.355186 0,-2.902516 1.977928,-5.056037 4.663838,-5.056037 2.685911,0 3.766392,2.053805 3.766392,4.956321 z"
    sodipodi:nodetypes="sssss"
    inkscape:label="pupil2" />
@@ -117,7 +116,7 @@
    sodipodi:nodetypes="cssc"
    inkscape:label="ear2" />
     <path
-   style="fill:none;fill-opacity:1;stroke:url(#brandColor);stroke-width:10.5833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+   style="display:inline;fill:none;fill-opacity:1;stroke:url(#brandColor);stroke-width:10.5833;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
    d="m 30.393092,62.023912 c 0,0 7.990211,-2.013293 0.27505,-10.039348 -4.129921,-4.296342 15.54036,1.237727 15.54036,1.237727"
    id="ear1"
    sodipodi:nodetypes="csc"

@@ -1,8 +1,15 @@
 <div align="center">
-  <img
-    width="256px"
-    src="https://raw.githubusercontent.com/wgo-easy/.github/main/profile/assets/logo.svg"
-  />
+  <picture>
+    <source
+      width="256px"
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/wgo-easy/.github/main/profile/assets/logo-dark.svg"
+    />
+    <img
+      width="256px"
+      src="https://raw.githubusercontent.com/wgo-easy/.github/main/profile/assets/logo-light.svg"
+    />
+  </picture>
 
   # WGo Easy
 
